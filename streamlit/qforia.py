@@ -6,7 +6,7 @@ import re
 
 # App config
 st.set_page_config(page_title="ai", layout="wide")
-st.title("🔍 ai: Query Fan-Out Simulator for AI by:@ahmedaliseo")
+st.title("🔍 ai Tool by:@ahmedaliseo")
 
 # Sidebar: API key input and query
 st.sidebar.header("Configuration")
